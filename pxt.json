@@ -2,7 +2,8 @@
     "name": "Untitled",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "tilemap-gallery-jumpy-platformer-test": "*"
     },
     "files": [
         "main.blocks",
@@ -22,5 +23,6 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj",
+    "assetPack": true
 }
